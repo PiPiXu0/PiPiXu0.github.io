@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-01-01T10:41:12.565Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2019/01/01/hello-world/"/>
+    <id>http://yoursite.com/2019/01/01/hello-world/</id>
+    <published>2019-01-01T10:30:59.882Z</published>
+    <updated>2019-01-01T10:41:12.565Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to 网络部！<br><a id="more"></a><br>无人机拍摄视频！！！！</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to 网络部！&lt;br&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
