@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-01-01T10:41:12.565Z</updated>
+  <updated>2019-01-01T11:52:51.140Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,13 +17,13 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://yoursite.com/2019/01/01/hello-world/"/>
-    <id>http://yoursite.com/2019/01/01/hello-world/</id>
+    <title>西安信息学院雪景</title>
+    <link href="http://yoursite.com/2019/01/01/article1/"/>
+    <id>http://yoursite.com/2019/01/01/article1/</id>
     <published>2019-01-01T10:30:59.882Z</published>
-    <updated>2019-01-01T10:41:12.565Z</updated>
+    <updated>2019-01-01T11:52:51.140Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to 网络部！<br><a id="more"></a><br>无人机拍摄视频！！！！</p>]]></content>
+    <content type="html"><![CDATA[<p>Welcome to 网络部！<br><a id="more"></a><br>无人机拍摄视频！！！！</p><iframe frameborder="0" src="https://v.qq.com/txp/iframe/player.html?vid=x0819sz6po1" allowfullscreen="true"></iframe>]]></content>
     
     <summary type="html">
     
